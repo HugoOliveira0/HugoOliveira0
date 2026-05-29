@@ -1,6 +1,6 @@
 # Olá, eu sou o Hugo Oliveira 👋
 
-**Desenvolvedor Back-End e Web em formação.** Atualmente focado em construir sistemas eficientes e escaláveis, unindo lógica de programação sólida a boas práticas de desenvolvimento.
+**Desenvolvedor Back-End e Web em formação, entusiasta de Game Development.** Atualmente focado em construir sistemas eficientes e escaláveis, unindo lógica de programação sólida a boas práticas de desenvolvimento.
 
 ### 🎓 Educação
 * **Técnico em Desenvolvimento de Sistemas** – ETEC Pedro Ferreira Alves (3º ano - Conclusão em 12/2026)
@@ -8,7 +8,7 @@
 
 
 ### 🛠️ Minhas habilidades:
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,php,java,py,mysql,react,git,vscode,figma)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,php,java,py,mysql,react,git)](https://skillicons.dev)
 
 ---
 
